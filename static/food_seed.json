@@ -1,0 +1,13 @@
+[
+  {
+    "food_key": "гречка_сухая",
+    "title_ru": "Гречка (сухая)",
+    "category": "крупы",
+    "per_100g_kcal": 313,
+    "per_100g_p": 12.6,
+    "per_100g_f": 3.3,
+    "per_100g_c": 62.1,
+    "density_g_per_ml": null,
+    "source": "seed"
+  }
+]
