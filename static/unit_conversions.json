@@ -1,7 +1,0 @@
-[
-  {"unit": "г", "grams_per_unit": 1, "notes": "грамм"},
-  {"unit": "гр", "grams_per_unit": 1, "notes": "грамм"},
-  {"unit": "кг", "grams_per_unit": 1000, "notes": "килограмм"},
-  {"unit": "мл", "grams_per_unit": 1, "notes": "мл≈г (вода/молочка)"},
-  {"unit": "л", "grams_per_unit": 1000, "notes": "литр"}
-]
